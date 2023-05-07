@@ -21,7 +21,6 @@ def menu_principal():
                 print("Programa Finalizado.")
                 break
 
-
 def menu_operacoes():
         print("""
         OPERAÇÕES
